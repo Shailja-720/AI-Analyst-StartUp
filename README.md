@@ -49,5 +49,5 @@ Customization	Manual, slow	Dynamic, model-based
 
 Implementation Insights
 Recent developments in explainable AI for investment (e.g., memory-augmented, multi-step decision frameworks like R.A.I.S.E.) show how LLMs and decision trees can be combined to deliver both predictive accuracy and interpretability, greatly improving trust for high-stakes investment choices. Further, the industry is moving quickly from AI co-pilot tools (which assist analysts) to fully autonomous agents that manage entire due diligence workflows.
-AI Analyst platforms for startup evaluation are rapidly gaining traction as strategic assets for venture investors and accelerators. By transforming raw, unstructured data into rigorous, actionable insights, these platforms streamline investor workflows, enhance decision quality, and empower investors to identify both opportunities and risks more effectively than ever before.[4][3][1][2]
+AI Analyst platforms for startup evaluation are rapidly gaining traction as strategic assets for venture investors and accelerators. By transforming raw, unstructured data into rigorous, actionable insights, these platforms streamline investor workflows, enhance decision quality, and empower investors to identify both opportunities and risks more effectively than ever before.
 
